@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="22.065">
+  <properties />
+  
+  
+            <testcase name="verifyThatUserPlaceOrderSuccessfully" time="20.143" classname="com.tutorialsninja.demo.testsuite.LaptopsAndNoteBooksTest" />
+                <testcase name="verifyProductsPriceDisplayHighToLowSuccessfully" time="1.922" classname="com.tutorialsninja.demo.testsuite.LaptopsAndNoteBooksTest" />
+      
+</testsuite>
